@@ -1,2 +1,2 @@
 # burger-project
-Montar hamburguer dinamicamente com JS 
+Aplicação onde o usuario consiga dinamicamente montar um hamburguer. 
